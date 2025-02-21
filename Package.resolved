@@ -3,10 +3,10 @@
     {
       "identity" : "analytics-swift",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/segmentio/analytics-swift.git",
+      "location" : "https://github.com/SpeechifyInc/analytics-swift",
       "state" : {
-        "revision" : "338be8f55c83309f10d2cfd0193505117b4ab2d5",
-        "version" : "1.6.0"
+        "revision" : "59ae167a2db25eace218dcec801a83932e773e0c",
+        "version" : "1.7.2"
       }
     },
     {
